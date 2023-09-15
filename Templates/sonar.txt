@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html class="">
+    <header>
+        <link href="../../style1.css" rel="stylesheet" type="text/css" />
+
+    </header>
+    <body class="html">
+        
+        
+        <div class="topnav">
+            <a href="../../main.html">Home</a>
+        <div class="dropup">
+            <button class="dropbtn">Catagories</button>
+            <div class="dropup-content">
+              <a href="../aircraft.html">Aircraft</a>
+              <a href="../ship.html">Ships</a>
+              <a href="../facitity.html">Facilitys</a>
+              <a href="../platform.html">Platforms</a>
+              <a href="../rocket.html">Rockets</a>
+              <a href="../statlite.html">Satalites</a>
+              <a href="../submarine.html">Submarines</a>
+              <a href="../weapon.html">Weapons</a>
+            </div>
+          </div>  
+          <a href="contact.html">Contact Page</a>
+          </div>
+          <h1>XXX</h1>
+        <br>
+        <p>GENERAL DATA</p>
+        <img src="../../images/XXX" width="200" height="150">
+<table>
+    <thead>
+
+    </thead>
+    <tbody>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Type:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Role:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Generation:</td>
+            <td>
+                xxx 
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+        <td>
+            Range Max:</td>
+        <td>
+            xxx km
+        </td>
+        <td width="20">
+        </td>
+        <td>
+            Scan Interval:</td>
+        <td>
+            xxx 
+        </td>
+        <td width="20">
+        </td>
+        <td>
+            Resolution Angle:</td>
+        <td>
+            xxx 
+        </td>
+    </tr>
+    <tr style="font-family:Verdana;font-size:8pt;">
+        <td>
+            Frequency Upper:</td>
+        <td>
+            xxx 
+        </td>
+        <td width="20">
+        </td>
+        <td>
+            Frequency Lower:</td>
+        <td>
+            xxx 
+        </td>
+        <td width="20">
+        </td>
+        <td>
+            Sonar Source Level:</td>
+        <td>
+            xxx 
+        </td>
+    </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Sonar Pulse Length:</td>
+            <td>
+                xxx m
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Sonar Directivity Index:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Sonar Recognition Differential Active:</td>
+            <td>
+                xxx 
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Sonar Recognition Differential Passive:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Sonar Sensor To Machinery Distance:</td>
+            <td>
+                xxx m
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Sonar Tow Length:</td>
+            <td>
+                xxx Minimum
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Sonar Minimum Deployment Depth:</td>
+            <td>
+                xxx km
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Sonar Maximum Deployment Depth:</td>
+            <td>
+                xxx km
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Sonar CZ Number:</td>
+            <td>
+                xxx 
+            </td>
+        </tr>
+
+    </tbody>
+</table>
+    </element>
+    </body>
+</html>
+

@@ -1,0 +1,27 @@
+<h4 class="section" style="text-align: left">&lt;%PlatformName%&gt;</h4>
+
+<div>&lt;%Image%&gt;</div>
+<br>
+
+<div style="margin: 5px; text-align: left">
+    
+    &lt;%Description%&gt;
+    &lt;%General%&gt;
+    &lt;%Sensors%&gt;
+    &lt;%MineCountermeasures%&gt;
+    &lt;%Mounts%&gt;
+    &lt;%Stores%&gt;
+    &lt;%Loadouts%&gt;
+    &lt;%Magazines%&gt;
+    &lt;%Comms%&gt;
+    &lt;%AirFacilities%&gt;
+    &lt;%DockingFacilities%&gt;
+    &lt;%Signatures%&gt;
+    &lt;%Flags%&gt;
+    &lt;%Warheads%&gt;
+    &lt;%ValidTargets%&gt;
+    &lt;%WRA%&gt;
+    &lt;%Propulsion%&gt;
+    &lt;%Fuel%&gt;
+
+</div>

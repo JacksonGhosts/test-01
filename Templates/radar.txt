@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html class="">
+    <header>
+        <link href="../../style1.css" rel="stylesheet" type="text/css" />
+
+    </header>
+    <body class="html">
+        
+        
+        <div class="topnav">
+            <a href="../../main.html">Home</a>
+        <div class="dropup">
+            <button class="dropbtn">Catagories</button>
+            <div class="dropup-content">
+              <a href="../aircraft.html">Aircraft</a>
+              <a href="../ship.html">Ships</a>
+              <a href="../facitity.html">Facilitys</a>
+              <a href="../platform.html">Platforms</a>
+              <a href="../rocket.html">Rockets</a>
+              <a href="../statlite.html">Satalites</a>
+              <a href="../submarine.html">Submarines</a>
+              <a href="../weapon.html">Weapons</a>
+            </div>
+          </div>  
+          <a href="contact.html">Contact Page</a>
+          </div>
+          <h1>XXX</h1>
+        <br>
+        <p>GENERAL DATA</p>
+        <img src="../../images/XXX" width="200" height="150">
+<table>
+    <thead>
+
+    </thead>
+    <tbody>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Type:</td>
+            <td>
+                type
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Role:</td>
+            <td>
+                role
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Generation:</td>
+            <td>
+                Gen
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Range min:</td>
+            <td>
+                min km
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Range Max:</td>
+            <td>
+                Max km
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Altitude min:</td>
+            <td>
+                min km
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Altitude Max:</td>
+            <td>
+                xxx km
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Scan interval:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Resulition Range:</td>
+            <td>
+                xxx 
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Resoslution Height:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Resoslution Angle:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Direstion finding Accuracy:</td>
+            <td>
+                xxx 
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Max Contacts (Air):</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Max Contacts (Surface):</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Max Contacts (submarine):</td>
+            <td>
+                xxx 
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Frequency Upper:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Frequency Lower:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Radar Horizontal Beam width:</td>
+            <td>
+                xxx m
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Radar Vertical Bean Width:</td>
+            <td>
+                xxx m
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Radar System Noise Level:</td>
+            <td>
+                xxx dbsm
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Radar Processing Gain Loss:</td>
+            <td>
+                xxx 
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Radar Peak Power:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Radar Pulse Width:</td>
+            <td>
+                xxx km
+            </td>
+            <td width="20">
+            </td>
+            <td>
+                Radar Blind Time:</td>
+            <td>
+                xxx 
+            </td>
+        </tr>
+        <tr style="font-family:Verdana;font-size:8pt;">
+            <td>
+                Radar PRF:</td>
+            <td>
+                xxx 
+            </td>
+            <td width="20">
+            </td></tr>
+
+    </tbody>
+</table>
+    </element>
+    </body>
+</html>

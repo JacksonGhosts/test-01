@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html class="">
+    <header>
+        <link href="../../style1.css" rel="stylesheet" type="text/css" />
+
+    </header>
+    <body class="html">
+        
+        
+        <div class="topnav">
+            <a href="../../main.html">Home</a>
+        <div class="dropup">
+            <button class="dropbtn">Catagories</button>
+            <div class="dropup-content">
+              <a href="../aircraft.html">Aircraft</a>
+              <a href="../ship.html">Ships</a>
+              <a href="../facitity.html">Facilitys</a>
+              <a href="../platform.html">Platforms</a>
+              <a href="../rocket.html">Rockets</a>
+              <a href="../statlite.html">Satalites</a>
+              <a href="../submarine.html">Submarines</a>
+              <a href="../weapon.html">Weapons</a>
+            </div>
+          </div>  
+          <a href="contact.html">Contact Page</a>
+          </div>
+          <h1>Aircraft name</h1>
+        <br>
+        <p>GENERAL DATA</p>
+        <table class="none">
+            <tbody><tr style="font-family:Verdana;font-size:8pt;">
+                <td>Category:</td>
+                <td>Category</td>
+            <td width="20"></td>
+                <td>Aircraft Size:</td>
+                <td>size</td>
+            <td width="20"></td>
+            </tr>
+            <tr style="font-family:Verdana;font-size:8pt;">
+                <td>Type:</td>
+                <td>Type</td>
+            <td width="20"></td>
+                <td>Agility:</td>
+                <td>agility</td>
+            <td width="20"></td>
+            <tr style="font-family:Verdana;font-size:8pt;">
+                <td>Length:</td>
+                <td>Length m</td>
+            <td width="20"></td>
+                <td>Climb Rate:</td>
+                <td>Rate m/sec</td>
+            <td width="20"></td>
+            </tr>
+            <tr style="font-family:Verdana;font-size:8pt;">
+                <td>Wingspan:</td>
+                <td>span m</td>
+            <td width="20"></td>
+                <td>Instantaneous Climb Rate:</td>
+                <td>rate m/sec</td>
+            <td width="20"></td>
+            </tr>
+            <tr style="font-family:Verdana;font-size:8pt;">
+                <td>Height:</td>
+                <td>height m</td>
+            <td width="20"></td>
+                <td>Take-off Landing Distance:</td>
+                <td>xxx m TOD/LAD</td>
+            <td width="20"></td>
+            </tr>
+            <tr style="font-family:Verdana;font-size:8pt;">
+                <td>Crew:</td>
+                <td>crew</td>
+            <td width="20"></td>
+                <td>Cockpit Visbility:</td>
+                <td>Forward:
+                    Side:
+                    Aft: </td>
+            <td width="20"></td>
+            </tr>
+            <tr style="font-family:Verdana;font-size:8pt;">
+                <td>Empty Weight:</td>
+                <td>xxxx kg</td>
+            <td width="20"></td>
+                <td>Armor:</td>
+                <td>Fuselage:
+                    Cockpit:
+                    Powerplant: </td>
+            <td width="20"></td>
+            </tr><tr style="font-family:Verdana;font-size:8pt;">
+                <td>Max Weight:</td>
+                <td>xxxx kg</td>
+            <td width="20"></td>
+                <td>Damage Points:</td>
+                <td>xxxx</td>
+            <td width="20"></td>
+            </tr>
+            <tr style="font-family:Verdana;font-size:8pt;">
+                <td>Max Payload:</td>
+                <td>xxxx</td>
+            <td width="20"></td>
+                <td>&nbsp;</td>
+                <td>&nbsp;</td>
+            <td width="20"></td>
+            </tr>
+            <tr style="font-family:Verdana;font-size:8pt;">
+                <td>OODA:</td>
+                <td>Detection:
+                    Targeting:
+                    Evasion: </td>
+            <td width="20"></td>
+            </tr>
+            
+        </tbody></table>
+        <element>
+        <h2>Sensors / Early Warning</h2>
+        <table class="tbls">
+            <thead class="tbls">
+                <tr class="tbls2">
+                    <th>Model</th>
+                    <th>Max Range</th>
+                    <th>Notes</th>
+                    <th>Ablilties</th>
+                    <th>Arcs</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr class="tbls2">
+                    <td>xxx</td>
+                    <td>xxx nm</td>
+                    <td>xxx</td>
+                    <td>xxx</td>
+                    <td>xxx</td>
+                </tr>
+                <tr class="tbls2">
+                    <td>1x Mk1 Eyeball</td>
+                    <td>50 nm</td>
+                    <td>--</td>
+                    <td>Air search, surface search, ground search (fixed) ground search (mobile), range info, altitude info, heading info</td>
+                </tr>
+            </tbody>
+        </table>
+        <h1>Mounts / Stores / Weapons</h1>
+        <h2>Mounts</h2>
+        <table class="tbls">
+            <thead>
+            <tr class="tbls2">
+                <th>Mount</th>
+                <th>Capacity</th>
+                <th>Launch interval</th>
+                <th>Armor</th>
+                <th>Onboard sensors</th>
+                <th>Weapons (per mount)</th>
+                <th>Notes</th>
+                <th>Arcs</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="tbls2">
+                <td>xxx</td>
+                <td>xxx</td>
+                <td>xxx</td>
+                <td>xxx</td>
+                <td>--</td>
+                <td>xxx</td>
+                <td>xxx</td>
+                <td>xxx</td>
+            </tr>
+            </tbody>
+        </table>
+        <h2>Stores</h2>
+        <table class="tbls">
+            <thead>
+            <tr class="tbls2">
+                <th>Store</th>
+                <th>Speed Release Envolpe</th>
+                <th>Altitude Release Envolpe</th>
+                <th>Description</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="tbls2">
+                <td>xxx</td>
+                <td>xxx</td>
+                <td>xxx</td>
+                <td>xxx</td>
+            </tr>
+            </tbody>
+        </table>
+    </table>
+    <h2>Loadouts</h2>
+    <table class="tbls">
+        <thead>
+        <tr class="tbls2">
+            <th>Name</th>
+            <th>Stores</th>
+            <th>Range & Profile</th>
+            <th>Ready Time</th>
+            <th>Day/Night/Weather</th>
+            <th>Pre-Briefed Weapon State</th>
+            <th>DB ID</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr class="tbls2">
+            <td>xxx</td>
+            <td>xxx</td>
+            <td>xxx</td>
+            <td>xxx</td>
+            <td>xxx</td>
+            <td>xxx</td>
+            <td>xxx</td>
+        </tr>
+        </tbody>
+    </table>
+        <h2>Comms / Datalinks</h2>
+        <table class="tbls">
+            <thead>
+            <tr class="tbls2">
+                <th>Name</th>
+                <th>Type</th>
+                <th>Max Range</th>
+                <th>Channels</th>
+                <th>Properties</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="tbls2">
+                <td>HF Radio [xxx]</td>
+                <td>Radio</td>
+                <td>xxx nm</td>
+                <td>xxx</td>
+                <td>xxx</td>
+            </tr>
+            <tr class="tbls2">
+                <td>VHF Radio [xxx]</td>
+                <td>Radio</td>
+                <td>xxx nm</td>
+                <td>xxx</td>
+                <td>xxx</td>
+            </tr>
+            <tr class="tbls2">
+                <td>UHF Radio [xxx]</td>
+                <td>Radio</td>
+                <td>xxx nm</td>
+                <td>xxx</td>
+                <td>xxx</td>
+            </tr>
+            </tbody>
+        </table>
+        <h2>Signatures</h2>
+        <table class="tbls">
+            <thead>
+            <tr class="tbls2">
+                <th>Signature Type</th>
+                <th>Front</th>
+                <th>Side</th>
+                <th>Rear</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="tbls2">
+                <td>Passive Sonar, VLF (0-1000 HZ, 200 Hz center Frequency)</td>
+                <td>000.00 dB</td>
+                <td>000.00 dB</td>
+                <td>000.00 dB</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Passive Sonar, LF (1-5 KHz, 3 KHz Center Frequency)</td>
+                <td>000.00 dB</td>
+                <td>000.00 dB</td>
+                <td>000.00 dB</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Passive Sonar, MF (5-10 KHz, 7.5 KHz Center Frequency)</td>
+                <td>000.00 dB</td>
+                <td>000.00 dB</td>
+                <td>000.00 dB</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Passive Sonar, HF (10-500 KHz, 20 KHz Center Frequency)</td>
+                <td>000.00 dB</td>
+                <td>000.00 dB</td>
+                <td>000.00 dB</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Active Sonar, VLF-HF (0-500 KHz)</td>
+                <td>000.00 dB</td>
+                <td>000.00 dB</td>
+                <td>000.00 dB</td>
+            </tr>
+            <tr class="tbls2">
+                <td>visual Detection Range</td>
+                <td>000.00 nm</td>
+                <td>000.00 nm</td>
+                <td>000.00 nm</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Visual Calssification Range</td>
+                <td>000.00 nm</td>
+                <td>000.00 nm</td>
+                <td>000.00 nm</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Infrared Detection Range</td>
+                <td>000.00 nm</td>
+                <td>000.00 nm</td>
+                <td>000.00 nm</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Infrared Calssification Range</td>
+                <td>000.00 nm</td>
+                <td>000.00 nm</td>
+                <td>000.00 nm</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Radar, A-D Band (30-2000 MHz)</td>
+                <td>000.00 dBsm, 000.00 sq.m.</td>
+                <td>000.00 dbsm, 000.00 sq.m.</td>
+                <td>000.00 dBsm, 000.00 sq.m.</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Radar, E-M Band (2-100 GHz)</td>
+                <td>000.00 dBsm, 000.00 sq.m.</td>
+                <td>000.00 dbsm, 000.00 sq.m.</td>
+                <td>000.00 dBsm, 000.00 sq.m.</td>
+            </tr>
+            </tbody>
+        </table>
+        <h2>Aircraft Loadouts</h2>
+        <table class="tbls">
+            <thead>
+            <tr class="tbls2">
+                <th>Name</th>
+                <th>Stores</th>
+                <th>Signatures</th>
+                <th>DB ID#</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="tbls2">
+                <td>xxxx</td>
+                <td>xxxx</td>
+                <td>(insert table)</td>
+                <td>xxxx</td>
+            </tr>
+            </tbody>
+        </table>
+        <h2>Properties</h2>
+        <table class="tbls">
+            <tbody>
+            <tr class="tbls2">
+                <td>xxxx</td>
+            </tr>
+            </tbody>
+        </table>
+        <h2>Propulsion</h2>
+        <table class="tbls">
+            <thead>
+            <tr class="tbls2">
+                <th>Engines</th>
+                <th>Type</th>
+                <th>Max Speed</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="tbls2">
+                <td>xxx</td>
+                <td>xxx</td>
+                <td>xxx kts</td>
+            </tr>
+            </tbody>
+        </table>
+        <h2>Technical Details</h2>
+        <table class="tbls">
+            <thead>
+            <tr class="tbls2">
+                <th>Military Static Thrust at S/L</th>
+                <th>Afterburner Static Thrust at S/L</th>
+                <th>Military Static SFC at S/L</th>
+                <th>Afterburner Static SFC at S/L</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="tbls2">
+                <td>xxxx kg</td>
+                <td>xxxx kg</td>
+                <td>xxxx kg/h/kg</td>
+                <td>xxxx kg/h/kg</td>
+            </tr>
+            </tbody>
+        </table>
+        <h2>Performance Details</h2>
+        <table class="tbls">
+            <thead>
+            <tr class="tbls2">
+                <th>Altitude Band & Throttle</th>
+                <th>Altitude</th>
+                <th>Speed</th>
+                <th>Fuel Consumption</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="tbls2">
+                <td>Band 1, Loiter speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 1, Cruise speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 1, Military speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 2, Loiter speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 2, Cruise speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 2, Military speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 3, Loiter speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 3, Cruise speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 3, Military speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 4, Loiter speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 4, Cruise speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            <tr class="tbls2">
+                <td>Band 4, Military speed</td>
+                <td>xxxx m</td>
+                <td>xxxx mach</td>
+                <td>xxxx kg/min</td>
+            </tr>
+            </tbody>
+        </table>
+        <h2>Fuel</h2>
+        <table class="tbls">
+            <thead>
+            <tr class="tbls2">
+                <th>Fuel Type</th>
+                <th>Quanty</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr class="tbls2">
+                <td>xxx</td>
+                <td>0.0 kg</td>
+            </tr>
+            </tbody>
+        </table>
+    </element>
+    </body>
+</html>

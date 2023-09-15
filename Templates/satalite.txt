@@ -1,0 +1,17 @@
+<tr style="font-family:Verdana;font-size:8pt;">
+            <td>Name</td>
+            <td>Date</td>
+            <td>Date</td>
+            <td>Length</td>
+            <td>Span</td>
+            <td>Height</td>
+            <td>EmptyWeight</td>
+            <td>MaxWeight</td>
+            <td>Armor</td>
+            <td>Damage</td>
+            <td>OODADectionCycle</td>
+            <td>OODATargetingCycle</td>
+            <td>OODAEvasiveCycle</td>
+            <td>Cost</td>
+            <td>3DMesh</td>
+        </tr>
